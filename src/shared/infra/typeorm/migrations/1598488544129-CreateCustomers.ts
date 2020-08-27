@@ -28,7 +28,7 @@ export default class CreateCustomers1598488544129
             default: 'now()',
           },
           {
-            name: 'deleted_at',
+            name: 'updated_at',
             type: 'timestamp',
             default: 'now()',
           },
